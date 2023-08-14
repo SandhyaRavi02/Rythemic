@@ -1,7 +1,6 @@
 
 #active:hover{
     color: white;
-    box-shadow: 0 0 5px  ,0 0 10px blue,0 0 15px blue;
      font-weight: bold;
 }
 
@@ -10,15 +9,24 @@ a.nav-link{
 }
 a.navbar-brand{
     color: white;
+    padding-left: 250px;
+    font-size: 30px;
 }
 #navbarSupportedContent{
-
-    
-    padding-left: 150px;
+    padding-left: 230px;
 }
 .wrap-wrap{
     flex-wrap: wrap;
 }
 .img-fluid{
     width:100%;
+}
+#id7{
+    background-color: rgb(58, 56, 56);
+}
+#id8{
+    background-color:black;
+}
+#id9{
+    color: white;
 }
