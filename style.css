@@ -1,0 +1,147 @@
+.border{
+   width: 100%;
+}
+.img{
+   height: 20px;
+   width: 20px;
+}
+img.rounded-circle{
+   width: 105px;
+   
+}
+#id4{
+   padding-left: 25px;
+}
+#active:hover{
+   color: white;
+   box-shadow: 0 0 5px  ,0 0 10px blue,0 0 15px blue;
+    font-weight: bold;
+}
+
+a.active-nav-link{
+   color:white;
+}
+a.navbar-brand{
+   color: white;
+}
+#navbarSupportedContent{
+
+   
+   padding-left: 150px;
+}
+.wrap-wrap{
+   flex-wrap: wrap;
+}
+.img-fluid{
+   width:100%;
+}
+#id5{
+   padding: 0px -px;
+}
+.footicon{
+   
+   width: 100%;
+}
+.id1{
+   width:200%;
+   padding-left: 0px;
+}
+a#active.nav-link{
+   background-color: black;
+   color: white;
+}
+.class{
+
+}
+.card-type-1{
+   background-color: rgb(60, 55, 55);
+   color:white;
+   
+}
+.card-type-1 .card-image{
+   background-color: rgb(60, 55, 55);
+   color:white;
+   
+}
+.card-type-1 .card-body{
+   background-color: rgb(60, 55, 55);
+   color:white;
+   
+}
+.card-type-1 .card-title{
+   background-color: rgb(60, 55, 55);
+   color:white;
+   
+}
+.div.col-9{
+   margin-top: 5%;
+}
+.browse{
+   background-color: #292828;
+   margin: 10px ;
+   border-radius: 8px;
+   padding: 10px;
+}
+
+.card-1 {
+ border-radius: 8px;
+ position: relative;
+ width: 11rem;
+ background-color: green;
+ height: 11rem;
+ box-sizing: border-box;
+ overflow: hidden;
+}
+
+
+.box {
+ position: absolute;
+ right: 0px;
+ bottom: 0px;
+ transform: rotate(25deg) translate(18%, -2%);
+ height: 120px;
+ width: 120px;
+ box-sizing: border-box;
+ box-shadow: 0 2px 4px 0 rgba(0, 0, 0, .2);
+ position: absolute;
+ object-fit: cover;
+ object-position: center center;
+ box-sizing: border-box;
+
+}
+.row1{
+   column-width: 185px;
+column-count: 6;
+grid-gap: 10px;
+grid-template-columns: repeat(7, 1fr);
+grid-auto-rows: auto;
+display: grid;
+box-sizing: border-box;
+grid-template-rows: 1fr;
+}
+
+.container {
+ padding: 2px 16px;
+}
+
+.button {
+ background-color: #ddd;
+ border: none;
+ color: black;
+ padding: 10px 20px;
+ text-align: center;
+ text-decoration: none;
+ display: inline-block;
+ margin: 4px 2px;
+ cursor: pointer;
+ border-radius: 16px;
+}
+
+.a {
+ color: white;
+ background-color: transparent;
+ text-decoration: none;
+}
+.buton.btn.btn-light{
+   margin-left: 500px;
+}
