@@ -50,9 +50,7 @@ a#active.nav-link{
    background-color: black;
    color: white;
 }
-.class{
 
-}
 .card-type-1{
    background-color: rgb(60, 55, 55);
    color:white;
@@ -145,3 +143,121 @@ grid-template-rows: 1fr;
 .buton.btn.btn-light{
    margin-left: 500px;
 }
+.col{
+   margin-top:5px;
+   padding-right: 0px;
+}
+.home{
+   background-color: #292828;
+   border-radius: 8px;
+   margin: 10px;
+   padding: 10px;
+   margin-left: 20px;
+   margin-right: 0px;
+   width: 100%;
+
+}
+.home-img{
+   width:30px;
+    height:20px;
+    float: left;
+    margin-right: 10px;
+}
+.search-img{
+   width:30px;
+    height:20px;
+    float: left;
+    margin-right: 10px;
+}
+.profile-img{
+   width:30px;
+    height:20px;
+    float: left;
+    margin-right: 10px;
+}
+.bg{
+   background-color: black;
+   color:white;
+}
+.lib{
+   width: 30px;
+   height: 40px;
+}
+.container1{
+   background-color: #292828;
+   border-radius: 8px;
+   margin: 10px;
+   padding: 10px;
+   margin-left: 20px;
+   margin-right: 0px;
+   width: 100%;
+
+}
+.songs{
+   background-color: #292828;
+   border-radius: 8px;
+   padding: 20px;
+   margin-top:7px;
+   margin-left: 0px;
+   width: 100%;
+
+}
+.harris{
+   width:70px;
+   float: left;
+   margin-left: 25px;
+   margin-bottom: 20px;
+}
+.gv {
+   width:70px;
+   float: left;
+   margin-left: 25px;
+   margin-bottom: 20px;
+}
+.ani{
+   width:70px;
+   float: left;
+   margin-left: 25px;
+   margin-bottom: 20px;
+}
+.imman{
+   width:70px;
+   float: left;
+   margin-left: 25px;
+   margin-bottom: 20px;
+}
+.yuvan{
+   width:70px;
+   float: left;
+   margin-left: 25px;
+   margin-bottom: 20px;
+}
+.adhi{
+   width:70px;
+   float: left;
+   margin-left: 25px;
+   margin-bottom: 20px;
+}
+.sid{
+   width:70px;
+   float: left;
+   margin-left: 25px;
+   margin-bottom: 20px;
+}
+.card1{
+   width: 10rem;
+   background-color: black;
+   color: white;
+}
+.a {
+   color: white;
+   background-color: black;
+   text-decoration: none;
+ }
+
+
+ .btn {
+   color: gray;
+ }
+ 
+  
