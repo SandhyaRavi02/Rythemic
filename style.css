@@ -154,6 +154,7 @@ grid-template-rows: 1fr;
    padding: 10px;
    margin-left: 20px;
    margin-right: 0px;
+   
    width: 100%;
 
 }
@@ -259,5 +260,3 @@ grid-template-rows: 1fr;
  .btn {
    color: gray;
  }
- 
-  
