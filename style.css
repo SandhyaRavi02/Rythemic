@@ -154,7 +154,6 @@ grid-template-rows: 1fr;
    padding: 10px;
    margin-left: 20px;
    margin-right: 0px;
-   
    width: 100%;
 
 }
@@ -201,6 +200,7 @@ grid-template-rows: 1fr;
    margin-top:7px;
    margin-left: 0px;
    width: 100%;
+   height: 100%;
 
 }
 .harris{
@@ -260,3 +260,89 @@ grid-template-rows: 1fr;
  .btn {
    color: gray;
  }
+  .col-1{
+   margin-top: 10px;
+   margin-bottom: 10px;
+    width: 200px;
+   
+ }
+  .col-2{
+   margin-top: 10px; 
+   width: 270px;
+ } 
+  .useful-links {
+   margin-top: 10px; 
+   width: 200px;
+ } 
+ 
+  .ic{
+   margin-top: 10px;
+   margin-left: 20px; 
+  } 
+  .ab{
+   float: right;
+   position: left;
+  }
+  .container-fluid{
+   font-size: large;
+   color: white;
+  }
+  .f{
+   width:20px;
+  height: 20px;
+  
+ }
+ .row-2{
+   margin-right: 0px;
+ }
+ .library1{
+   background-color:black;
+   border-radius: 8px;
+   margin: 10px;
+   padding: 10px;
+   margin-left: 20px;
+   margin-right: 0px;
+   width: 100%;
+
+}
+.user{
+   width:40px;
+   height:40px;
+   margin-right: 10px;
+   margin-top: 10px;
+}
+/* .c1{
+   max-width: 640px;
+   background-color: black;
+   color:white"
+} */
+.btn1{
+   margin-top: 10px;
+}
+.cd{
+   width: 10rem;
+   background-color: black;
+   color: white;
+}
+.time{
+   float: left;
+   margin-right: 10px;
+}
+.c1{
+   color: black;
+   margin: 10px;
+   
+   
+}
+.col-2{
+   background-color: #292828;
+   border-radius: 8px;
+   margin: 10px;
+   padding-top: 10px;
+   padding-bottom: 15px;
+   padding-right: 100px;
+   margin-left: 30px;
+   margin-right: 0px;
+   height: 200px;
+   width: 400px;
+}
