@@ -74,6 +74,7 @@ a#active.nav-link{
 .div.col-9{
    margin-top: 5%;
 }
+/* search */
 .browse{
    background-color: #292828;
    margin: 10px ;
@@ -118,9 +119,7 @@ box-sizing: border-box;
 grid-template-rows: 1fr;
 }
 
-.container {
- padding: 2px 16px;
-}
+
 
 .button {
  background-color: #ddd;
@@ -146,6 +145,191 @@ grid-template-rows: 1fr;
 .col{
    margin-top:5px;
    padding-right: 0px;
+}
+/* index.css */
+.logo{
+   width:24px;
+    height:30px;
+  }
+
+  .loginformdiv{
+   background: linear-gradient(135deg,rgba(255,255,255,0.1),rgba(255,255,255,0));
+   -webkit-backdrop-filter: blur(20px);
+   backdrop-filter: blur(20px);
+   box-shadow:0 8px 32px 0 rgba(0,0,0,0.37);
+   border: none;
+   border-radius: 8px;
+   flex:1.7;
+   margin-right: 5%;
+   flex-shrink: 1;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   min-width: 450.075px;
+   /*max-width: 450.075px;*/
+   margin-top: 50px;
+   margin-bottom: 30px;
+}
+.logo -rounded-image{
+   width: 3rem;
+   height:2rem;
+}
+.brandsdiv{
+   
+   /*background-color: lightblue;*/
+   /*height:100vh;*/
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+
+.brandsdiv button{
+   margin-top: 20px;
+   cursor: pointer;
+   min-width: 372.2px;
+}
+/* /login/ */
+ 
+ .google-image{
+   width: 2rem;
+   height: 2rem;
+   float:left;
+ }
+ .facebook-image{
+   width: 5rem;
+   height: 2rem;
+   float:left;
+
+ }
+ .apple-image{
+   width: 4rem;
+   height: 2rem;
+   float:left;
+
+
+ }
+
+ /* login */
+  .left-nav{
+   font-size: 100%;
+   color:white;
+
+  }
+.right-nav{
+   font-size: 100%;
+   color:white;
+
+}
+.login{
+   background-color: white;
+   color:black;
+   float:right;
+   border-radius: 12px;
+   
+}
+
+.facebooklogin{
+   height: 4em;
+   border-radius: 2em;
+   background-color: rgba(6, 5, 5, 0.9);
+   color: rgb(232, 232, 242);
+   letter-spacing: 1px;
+   font-weight: bold;
+   border: 1px solid rgb(135,135,135);
+}
+
+.applelogin{
+   height: 4em;
+   border-radius: 2em;
+   background-color: rgba(6, 5, 5, 0.9);
+   color: rgb(232, 232, 242);
+   letter-spacing: 1px;
+   font-weight: bold;
+   border: 1px solid rgb(135,135,135);
+}
+
+.googlelogin{
+   height: 4em;
+   border-radius: 2em;
+   background-color: rgba(6, 5, 5, 0.9);
+   color: rgb(232, 232, 242);
+   letter-spacing: 1px;
+   font-weight: bold;
+   border: 1px solid rgb(135,135,135);
+}
+
+.phonelogin{
+   height: 4em;
+   border-radius: 2em;
+   background-color: rgba(6, 5, 5, 0.9);
+   color: rgb(232, 232, 242);
+   letter-spacing: 1px;
+   font-weight: bold;
+   border: 1px solid rgb(135,135,135);
+}
+
+.or{
+   margin-top: 20px;
+   color: white;
+   font-size: 15px;
+   font-weight: bold;
+}
+
+.inputdiv{
+   /*background-color: yellow;*/
+   margin-left: 10px;
+}
+.emaildiv{
+   margin-bottom: 15px;
+}
+
+.emailtext{
+   color: white;
+   font-weight: 700;
+   font-size: 13px;
+   margin: 0%;
+}
+
+.emailinput{
+   width: 372.2px;
+   height: 45px;
+   border-radius: 4px;
+   border: 1px solid black;
+   font-weight: 400;
+   padding-left: 10px;
+   font-size: 15px;
+}
+
+.fyp{
+   color: white;
+   font-weight: 500;
+   font-size: 15px;
+   cursor: pointer;
+   margin: 0%;
+}
+
+.fyp:hover{
+   text-decoration: underline;
+}
+
+.redirectdiv{
+   display: flex;
+   justify-content: space-between;
+   margin-top: 20px;
+   margin-bottom: 30px;
+   /*background-color: lightblue;*/
+}
+
+.loginbutton{
+   background-color: #1ed760;
+   height:45px;
+   width: 150px;
+   border-radius: 22.5px;
+   font-weight: bold;
+   font-size: 15px;
+   letter-spacing: 2px;
+   border:none;
+   cursor: pointer;
 }
 .home{
    background-color: #292828;
@@ -345,4 +529,102 @@ grid-template-rows: 1fr;
    margin-right: 0px;
    height: 200px;
    width: 400px;
+}
+/* /install app css/ */
+.installprofile{
+   width:40px ;
+   height:40px;
+   float: right;
+   
+
+ 
+ }
+ .installcard{
+   width:20rem;
+   background-color: rgb(9, 3, 24);
+   color: white;
+   align-content: center;
+   border: none;
+ }
+ .get.ins{
+   background-color :rgb(13, 139, 84);
+  color: white;
+ 
+  border-radius: 12px;
+  float:center;
+
+
+ }
+ .body{
+   background-color: black;
+   color:white;
+ }
+ .img.card-imgtop{
+   width:20%;
+ }
+ /* /main2.html/ */
+.tendiv{
+   background-color: black;
+   color:white;
+}
+.ten{
+   width:250px;
+   height:250px;
+   float: left;
+   margin-right: 10px;
+}
+.gib{
+   width:70px;
+    height:70px;
+    float: left; 
+    margin-right: 10px;
+}
+/* /main.html/ */
+.inndiv{
+   background-color: black;
+   color:white;
+   width:100%
+
+}
+
+.inn{
+   width:250px;
+    height:250px;
+    float: left;
+    margin-right: 10px
+}
+.aadhi{
+   width:70px;
+    height:70px;
+    float: left;
+    margin-right: 10px;
+}
+
+.play-button{
+
+   color:green;
+   font-size:40px;
+
+}
+.likebtn{
+    font-style:rgb(208, 204, 204);
+   border: #ddd;
+   font-size:40px;
+
+}
+.more{
+   width:50px;
+    height:30px;
+}
+.clock{
+   width:10px;
+    height:10px;
+}
+.bottom-foot{
+   background-color: black;
+   color:white;
+}
+.h4{
+   background-color: black;
+   color:white;
 }
